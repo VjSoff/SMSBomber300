@@ -219,6 +219,6 @@ def banner_atack2():
   print ("[====================] \033[94m100%\033[0m")
   time.sleep(2)
   print(Fore.RED)
-  print("Атака началась на ||" + str(_phone)+ "||\033[94mDDos-SMS-Attack\033[0m")
+  print("Атака началась на ||" + str(+79041067368)+ "||\033[94mDDos-SMS-Attack\033[0m")
 
 
